@@ -1,0 +1,8 @@
+Selenium web otomasyon kütüphanesidir.
+Selenium ile bir web sitesini ziyaret edip etkileşimde bulunabiliriz.
+Web sayfasında etkileşimde bulunacağımız için hangi tarayıcı kullanıyorsak onun driverini atmamız gerekmekte.
+.get() metodu url açma işleminde kullanılır. 
+.maximize_window() metodu ekranı büyültmek için kullanılır. 
+save_screenshot(filename) şeklinde ekran resmi aldırılır. 
+.back() ve .forward() geri ve ileri gitmek için kullanılır . 
+driver.page_source = bize kaynak kodları getirir.

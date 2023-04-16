@@ -1,0 +1,9 @@
+Numpy 
+-Veri analizinde kullanılan bir kütüphanedir.       
+-Daha az yer kaplayıp , hızlıdır .
+- numpy kütüphanesini eklemek için : " import numpy as np " şeklinde yaparız. 
+- .reshape = şekillendirmeye yarıyor(3,3) örneğin 3 e 3lük bir matris oluşturdu. 
+- .ndim ise bize kaç boyutlu olduğunu söyler söyler.
+- .shape ise bize kaça kaçlık bir matris olduğunu belirtir. 
+- numpy ile dizi oluşturma numpy.array() şeklinde içine bir liste atabiliriz. 
+- np.arange(*,*) ile kendiliğinden eleman oluşturma. 
